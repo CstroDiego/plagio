@@ -1,40 +1,66 @@
 package mx.itson.plagio.entidades;
 
+/**
+ * Contiene los atributos y métodos que corresponden a Oficial
+ *
+ * @author Diego Castro Arce
+ */
 public class Oficial {
     private String nombre;
     private String apellido;
-    private String domicilio;
-    private String placa;
+    private String numPlaca;
 
+    /**
+     * Obtiene el valor del atributo nombre.
+     *
+     * @return El atributo nombre.
+     */
     public String getNombre() {
         return nombre;
     }
 
+    /**
+     * Asigna el valor del atributo nombre.
+     *
+     * @param nombre El valor a asignar a nombre.
+     */
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
 
+    /**
+     * Obtiene el valor del atributo apellido.
+     *
+     * @return El atributo apellido.
+     */
     public String getApellido() {
         return apellido;
     }
 
+    /**
+     * Asigna el valor del atributo apellido.
+     *
+     * @param apellido El valor a asignar a apellido.
+     */
     public void setApellido(String apellido) {
         this.apellido = apellido;
     }
 
-    public String getDomicilio() {
-        return domicilio;
+    /**
+     * Obtiene el valor del atributo numPlaca.
+     *
+     * @return El atributo numPlaca.
+     */
+    public String getNumPlaca() {
+        return numPlaca;
     }
 
-    public void setDomicilio(String domicilio) {
-        this.domicilio = domicilio;
-    }
-
-    public String getPlaca() {
-        return placa;
-    }
-
-    public void setPlaca(String placa) {
-        this.placa = placa;
+    /**
+     * Asigna el valor del atributo numPlaca.
+     *
+     * @param numPlaca El valor a asignar a numPlaca.
+     */
+    public void setNumPlaca(String numPlaca) {
+        this.numPlaca = numPlaca;
     }
 }
