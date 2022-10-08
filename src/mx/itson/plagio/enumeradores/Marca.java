@@ -1,7 +1,7 @@
 package mx.itson.plagio.enumeradores;
 
 /**
- * The enum Marca.
+ * Contiene los valores de Marca.
  */
 public enum Marca {
     /**

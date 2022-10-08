@@ -1,103 +1,86 @@
 package mx.itson.plagio.enumeradores;
 
 /**
- * The enum Tipo.
+ * Contiene los valores de Tipo
  */
 public enum Tipo {
     /**
-     * Suv tipo.
+     * Vehiculo tipo Suv.
      */
     SUV,
+
     /**
-     * Hatchback tipo.
+     * Vehiculo tipo Hatchback.
      */
     HATCHBACK,
+
     /**
-     * Crossover tipo.
+     * Vehiculo tipo Crossover.
      */
     CROSSOVER,
+
     /**
-     * Convertible tipo.
+     * Vehiculo tipo Convertible.
      */
     CONVERTIBLE,
+
     /**
-     * Sedan tipo.
+     * Vehiculo tipo Sedan.
      */
     SEDAN,
+
     /**
-     * Sports car tipo.
+     * Vehiculo tipo Sport.
      */
     SPORTS_CAR,
+
     /**
-     * Coupe tipo.
+     * Vehiculo tipo Coupe.
      */
     COUPE,
+
     /**
-     * Wagon tipo.
+     * Vehiculo tipo Wagon.
      */
     WAGON,
+
     /**
-     * Van tipo.
+     * Vehiculo tipo Van.
      */
     VAN,
+
     /**
-     * Pickup tipo.
+     * Vehiculo tipo Pickup.
      */
     PICKUP,
+
     /**
-     * Minivan tipo.
+     * Vehiculo tipo Minivan.
      */
     MINIVAN,
+
     /**
-     * Minicar tipo.
+     * Vehiculo tipo Minicar.
      */
     MINICAR,
+
     /**
-     * Roadster tipo.
+     * Vehiculo tipo Roadster.
      */
     ROADSTER,
+
     /**
-     * Limousine tipo.
+     * Vehiculo tipo Limousine.
      */
     LIMOUSINE,
+
     /**
-     * Super car tipo.
+     * Vehiculo tipo Super car.
      */
     SUPER_CAR,
+    
     /**
-     * Hybrid tipo.
-     */
-    HYBRID,
-    /**
-     * Electric tipo.
-     */
-    ELECTRIC,
-    /**
-     * Fuel cell tipo.
-     */
-    FUEL_CELL,
-    /**
-     * Diesel tipo.
-     */
-    DIESEL,
-    /**
-     * Gasoline tipo.
-     */
-    GASOLINE,
-    /**
-     * Lpg tipo.
-     */
-    LPG,
-    /**
-     * Cng tipo.
-     */
-    CNG,
-    /**
-     * Hydrogen tipo.
-     */
-    HYDROGEN,
-    /**
-     * Otro tipo.
-     */
+    * Otro tipo de vehiculo.
+    */
     OTRO
 }
