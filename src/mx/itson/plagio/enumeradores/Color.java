@@ -1,79 +1,79 @@
 package mx.itson.plagio.enumeradores;
 
 /**
- * The enum Color.
+ * Contiene los valores de Color.
  */
 public enum Color {
     /**
-     * Negro color.
+     * Vehiculo de color Negro.
      */
     NEGRO,
     /**
-     * Blanco color.
+     * Vehiculo de color Blanco.
      */
     BLANCO,
     /**
-     * Amarillo color.
+     * Vehiculo de color Amarillo.
      */
     AMARILLO,
     /**
-     * Gris color.
+     * Vehiculo de color Gris.
      */
     GRIS,
     /**
-     * Azul color.
+     * Vehiculo de color Azul.
      */
     AZUL,
     /**
-     * Rojo color.
+     * Vehículo de color Rojo.
      */
     ROJO,
     /**
-     * Verde color.
+     * Vehiculo de color Verde.
      */
     VERDE,
     /**
-     * Naranja color.
+     * Vehiculo de color Naranja.
      */
     NARANJA,
     /**
-     * Rosa color.
+     * Vehiculo de color Marron.
      */
     ROSA,
     /**
-     * Morado color.
+     * Vehiculo de color Morado.
      */
     MORADO,
     /**
-     * Marron color.
+     * Vehiculo de color Marron.
      */
     MARRON,
     /**
-     * Plata color.
+     * Vehiculo de color Plata.
      */
     PLATA,
     /**
-     * Dorado color.
+     * Vehiculo de color Dorado.
      */
     DORADO,
     /**
-     * Cafe color.
+     * Vehiculo de color Cafe.
      */
     CAFE,
     /**
-     * Violeta color.
+     * Vehiculo de color Violeta.
      */
     VIOLETA,
     /**
-     * Turquesa color.
+     * Vehiculo de color Turquesa.
      */
     TURQUESA,
     /**
-     * Lila color.
+     * Vehiculo de color Lila.
      */
     LILA,
     /**
-     * Celeste color.
+     * Vehiculo de color Celeste.
      */
     CELESTE
 }

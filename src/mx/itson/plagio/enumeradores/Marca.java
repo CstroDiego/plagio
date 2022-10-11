@@ -5,115 +5,142 @@ package mx.itson.plagio.enumeradores;
  */
 public enum Marca {
     /**
-     * Ford marca.
+     * Vehiculo de marca Ford.
      */
     FORD,
+
     /**
-     * Kia marca.
+     * Vehiculo de marca Kia.
      */
     KIA,
+
     /**
-     * Chevrolet marca.
+     * Vehiculo de marca Chevrolet.
      */
     CHEVROLET,
+
     /**
-     * Bmw marca.
+     * Vehiculo de marca BMW.
      */
     BMW,
+
     /**
-     * Audi marca.
+     * Vehiculo de marca Audi.
      */
     AUDI,
+
     /**
-     * Bentley marca.
+     * Vehiculo de marca Bentley.
      */
     BENTLEY,
+
     /**
-     * Chrysler marca.
+     * Vehiculo de marca Chrysler.
      */
     CHRYSLER,
+
     /**
-     * Dodge marca.
+     * Vehiculo de marca Dodge.
      */
     DODGE,
+
     /**
-     * Fiat marca.
+     * Vehiculo de marca Fiat.
      */
     FIAT,
+
     /**
-     * Jeep marca.
+     * Vehiculo de marca Jeep.
      */
     JEEP,
+
     /**
-     * Ram marca.
+     * Vehiculo de marca Ram.
      */
     RAM,
+
     /**
-     * Maserati marca.
+     * Vehiculo de marca Maserati.
      */
     MASERATI,
+
     /**
-     * Lincoln marca.
+     * Vehiculo de marca Lincoln.
      */
     LINCOLN,
+
     /**
-     * Volvo marca.
+     * Vehiculo de marca Volvo.
      */
     VOLVO,
+
     /**
-     * Cadillac marca.
+     * Vehiculo de marca Cadillac.
      */
     CADILLAC,
+
     /**
-     * Gmc marca.
+     * Vehiculo de marca Gmc.
      */
     GMC,
+
     /**
-     * Honda marca.
+     * Vehiculo de marca Honda.
      */
     HONDA,
+
     /**
-     * Hyundai marca.
+     * Vehiculo de marca Hyundai.
      */
     HYUNDAI,
+
     /**
-     * Nissan marca.
+     * Vehiculo de marca Nissan.
      */
     NISSAN,
+
     /**
-     * Mitsubishi marca.
+     * Vehiculo de marca Mitsubishi.
      */
     MITSUBISHI,
+
     /**
-     * Datsun marca.
+     * Vehiculo de marca Datsun.
      */
     DATSUN,
+
     /**
-     * Alpine marca.
+     * Vehiculo de marca Alpine.
      */
     ALPINE,
+
     /**
-     * Suzuki marca.
+     * Vehiculo de marca Suzuki.
      */
     SUZUKI,
+
     /**
-     * Toyota marca.
+     * Vehiculo de marca Toyota.
      */
     TOYOTA,
+
     /**
-     * Lexus marca.
+     * Vehiculo de marca Lexus.
      */
     LEXUS,
+
     /**
-     * Porsche marca.
+     * Vehiculo de marca Porsche.
      */
     PORSCHE,
+
     /**
-     * Seat marca.
+     * Vehiculo de marca Seat.
      */
     SEAT,
+
     /**
-     * Volkswagen marca.
+     * Vehiculo de marca Volkswagen.
      */
     VOLKSWAGEN,
 }

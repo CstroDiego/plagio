@@ -21,7 +21,9 @@ public class Main {
     /**
      * El método principal del programa.
      *
-     * @param args Los argumentos de la línea de comandos.
+     * @param args Los argumentos de la línea de comandos. No se utilizan.
+     *
+     * @author Diego Castro Arce
      */
     public static void main(String[] args) {
         Multa multa = new Multa();
